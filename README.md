@@ -1,11 +1,8 @@
 # design_system
 Design System
 
-Design System blank canvas
+Design System - Canvas
 
-
-
-So quick test
 
 
 # Sketch File
